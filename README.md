@@ -1,0 +1,1 @@
+# Inheritance_Mismatch_TablePerConcreateCubClass_HBapp
